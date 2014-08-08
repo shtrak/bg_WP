@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Events Manager v5.5.2.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-08-08 12:50+0200\n"
+"PO-Revision-Date: 2014-08-08 13:20+0200\n"
 "Last-Translator: Emil Georgiev <svinqvmraka@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -5492,7 +5492,7 @@ msgstr ""
 # @ dbem
 #: admin/wpfc-admin.php:29
 msgid "Override calendar shortcode?"
-msgstr ""
+msgstr "Презапиши shorcode на календара?"
 
 # @ dbem
 #: admin/wpfc-admin.php:29
@@ -5500,164 +5500,168 @@ msgid ""
 "Overrides the default calendar shortcode. You can also use "
 "[events_fullcalendar] instead."
 msgstr ""
+"Презапиши основния shortcode на календара. Винаги може да използвате вместо "
+"него [events_fullcalendar]."
 
 # @ wpfc
 #: admin/wpfc-admin.php:30
 msgid "Event title format"
-msgstr ""
+msgstr "Формат на заглавието "
 
 # @ wpfc
 #: admin/wpfc-admin.php:30
 msgid "HTML is not accepted."
-msgstr ""
+msgstr "HTML не е приет."
 
 # @ wpfc
 #: admin/wpfc-admin.php:31
 msgid "Event tooltips format"
-msgstr ""
+msgstr "Формат на поясненията за Събитията"
 
 # @ wpfc
 #: admin/wpfc-admin.php:31
 msgid ""
 "If you enable tips, this information will be shwon, which can include HTML."
 msgstr ""
+"Ако сте разрешили пояснения, тази информация ще бъде показана и ще включва "
+"HTML."
 
 # @ dbem
 #: buddypress/bp-em-activity.php:46
 #, php-format
 msgid "%s added the event %s"
-msgstr ""
+msgstr "%s добави събитието %s "
 
 # @ dbem
 #: buddypress/bp-em-activity.php:57
 #, php-format
 msgid "%s added the event %s to %s."
-msgstr ""
+msgstr "%s добави събитиеото %s в %s ."
 
 # @ dbem
 #: buddypress/bp-em-activity.php:85
 #, php-format
 msgid "%s is attending %s."
-msgstr ""
+msgstr "%s  участва в %s."
 
 # @ dbem
 #: buddypress/bp-em-activity.php:87
 #, php-format
 msgid "%s will not be attending %s anymore."
-msgstr ""
+msgstr "%s няма да участва е %s  повече."
 
 # @ dbem
 #: buddypress/bp-em-activity.php:93
 #, php-format
 msgid "%s is attending %s of the group %s."
-msgstr ""
+msgstr "%s учства %s  от групата %s."
 
 # @ dbem
 #: buddypress/bp-em-activity.php:95
 #, php-format
 msgid "%s will not be attending %s of group %s anymore."
-msgstr ""
+msgstr "%s  няма да участва %s  от групата %s."
 
 # @ dbem
 #: buddypress/bp-em-core.php:53
 #, php-format
 msgid "Search %s..."
-msgstr ""
+msgstr "Търси %s..."
 
 # @ dbem
 #: buddypress/bp-em-core.php:92 buddypress/bp-em-core.php:200
 msgid "My Profile"
-msgstr ""
+msgstr "Моят профил"
 
 # @ dbem
 #: buddypress/bp-em-core.php:101 buddypress/bp-em-core.php:207
 #: buddypress/screens/attending.php:23 templates/buddypress/profile.php:29
 msgid "Events I'm Attending"
-msgstr ""
+msgstr "Събития, на които участвам"
 
 # @ dbem
 #: buddypress/bp-em-core.php:112 buddypress/bp-em-core.php:215
 #: buddypress/screens/my-events.php:32 templates/buddypress/profile.php:7
 msgid "My Events"
-msgstr ""
+msgstr "Моите събития"
 
 # @ dbem
 #: buddypress/bp-em-core.php:124 buddypress/bp-em-core.php:224
 #: buddypress/screens/my-locations.php:32
 msgid "My Locations"
-msgstr ""
+msgstr "Моите локации"
 
 # @ dbem
 #: buddypress/bp-em-core.php:136 buddypress/bp-em-core.php:233
 #: buddypress/screens/my-bookings.php:30
 msgid "My Event Bookings"
-msgstr ""
+msgstr "Моите резервации"
 
 # @ dbem
 #: buddypress/bp-em-groups.php:133 buddypress/bp-em-groups.php:134
 msgid "Group Ownership"
-msgstr ""
+msgstr "Принадлежност към групи"
 
 # @ dbem
 #: buddypress/bp-em-notifications.php:24
 msgid "You have a pending booking"
-msgstr ""
+msgstr "Имате чакаща резервация"
 
 # @ dbem
 #: buddypress/bp-em-notifications.php:26
 #, php-format
 msgid "You have %s pending bookings"
-msgstr ""
+msgstr "Имате %s чакащи резервации"
 
 # @ dbem
 #: buddypress/bp-em-notifications.php:33
 msgid "You have a confirmed booking"
-msgstr ""
+msgstr "Имате потвърдена резервация"
 
 # @ dbem
 #: buddypress/bp-em-notifications.php:35
 #, php-format
 msgid "You have %s confirmed bookings"
-msgstr ""
+msgstr "Имате %s  потвърдени резервации"
 
 # @ dbem
 #: buddypress/bp-em-notifications.php:41
 msgid "A user cancelled a booking"
-msgstr ""
+msgstr "Потребител отказа резервация"
 
 # @ dbem
 #: buddypress/bp-em-notifications.php:43
 #, php-format
 msgid "%s users cancelled bookings."
-msgstr ""
+msgstr "%s  потребителя са отказали резервациите си."
 
 # @ dbem
 #: buddypress/screens/group-events.php:20
 #: buddypress/screens/my-group-events.php:20
 msgid "Group Events"
-msgstr ""
+msgstr "Групови събития"
 
 # @ dbem
 #: buddypress/screens/my-events.php:47 em-events.php:178
 msgid "Reschedule Events"
-msgstr ""
+msgstr "Поменени събития"
 
 # @ dbem
 #: buddypress/screens/my-events.php:49 classes/em-event.php:1516
 #: em-events.php:180 em-posts.php:150
 msgid "Edit Event"
-msgstr ""
+msgstr "Редактирай събитието"
 
 # @ dbem
 #: buddypress/screens/my-events.php:52 em-events.php:183 em-posts.php:147
 #: templates/buddypress/profile.php:22
 msgid "Add Event"
-msgstr ""
+msgstr "Добави събитие"
 
 # @ dbem
 #: buddypress/screens/my-locations.php:46 em-events.php:189 em-posts.php:242
 msgid "Add Location"
-msgstr ""
+msgstr "Добави локация"
 
 # @ dbem
 #: buddypress/screens/my-locations.php:48 classes/em-location.php:863
