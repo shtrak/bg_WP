@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: Events Manager v5.5.2.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-08-08 10:17+0200\n"
+"PO-Revision-Date: 2014-08-08 11:11+0200\n"
 "Last-Translator: Emil Georgiev <svinqvmraka@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.6.5\n"
+"X-Generator: Poedit 1.5.4\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
 "_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
@@ -363,6 +363,10 @@ msgid ""
 "\">migrate your location and event images</a> in order for them to appear in "
 "your edit forms and media library. <a href=\"%s\">Dismiss message</a>"
 msgstr ""
+"Докато все още изглежда, че се изполват контейнери (placeholders), вие ще "
+"трябва да <a href=\"%s\">мигрирате вашата локация и изображение на "
+"събитието</a> за да се появат във вашата форма за редактиране и в "
+"библиотеката с файлове. <a href=\"%s\">Затвори съобщението</a>"
 
 # @ dbem
 #: admin/em-admin.php:179
@@ -485,7 +489,7 @@ msgstr "Име на събитието"
 # @ dbem
 #: admin/em-bookings.php:115
 msgid "Availability"
-msgstr ""
+msgstr "Наличност"
 
 # @ dbem
 #: admin/em-bookings.php:116
@@ -672,7 +676,7 @@ msgstr "%d Места"
 # @ dbem
 #: admin/em-bookings.php:379
 msgid "Tax"
-msgstr ""
+msgstr "Такса"
 
 # @ dbem
 #: admin/em-bookings.php:397 templates/emails/bookingsummary.php:51
@@ -4650,7 +4654,7 @@ msgstr "Имейли на администратора/собственика н
 # @ dbem
 #: admin/em-options.php:1799
 msgid "Contact person booking confirmed"
-msgstr ""
+msgstr "Лице за контакт при потвърждаване на резервация"
 
 # @ dbem
 #: admin/em-options.php:1800
@@ -4855,17 +4859,18 @@ msgstr "Шаблони за създаване на събитие"
 # @ dbem
 #: admin/em-options.php:1879
 msgid "Event Admin Emails"
-msgstr ""
+msgstr "Email на Администратора на събитието"
 
 # @ dbem
 #: admin/em-options.php:1881
 msgid "Administrator Email"
-msgstr ""
+msgstr "Администраторски email"
 
 # @ dbem
 #: admin/em-options.php:1881
 msgid "Event submission notifications will be sent to emails added here."
 msgstr ""
+"Известията за подадени събития ще бъдат изпратени до имейлите добавени тук."
 
 # @ dbem
 #: admin/em-options.php:1881
@@ -4873,11 +4878,13 @@ msgid ""
 "If left blank, no emails will be sent. Seperate emails with commas for more "
 "than one email."
 msgstr ""
+"Ако оставите прано няма да бъдат изпратени имейли. Разделяйте имейлите със "
+"запетайка."
 
 # @ dbem
 #: admin/em-options.php:1884
 msgid "Event Submitted"
-msgstr ""
+msgstr "Събитието е подадено."
 
 # @ dbem
 #: admin/em-options.php:1885
